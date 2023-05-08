@@ -1,0 +1,19 @@
+{
+  "name": "consumo-apis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:Oswaldo200818/consumo-api-js.git"
+  },
+  "author": "oquinteros",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Oswaldo200819/consumo-api-js.git"
+  },
+  "homepage": "https://github.com/Oswaldo200819/consumo-api-js.git"
+}
